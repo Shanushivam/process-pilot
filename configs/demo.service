@@ -1,0 +1,4 @@
+[Service]
+Name=demo
+Command=/bin/sleep 60
+Restart=always
